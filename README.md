@@ -9,7 +9,7 @@ To get started with the project, follow these instructions:
 1. **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
+    git clone [<repository_url>](https://github.com/3ashryy2/Rating-Microservice/)
     cd rating_system
     ```
 
