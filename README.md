@@ -35,18 +35,3 @@ The following endpoints are available:
 - `POST /ratings`: Add a new rating. Requires a JSON payload with `user_id` and `rating` fields.
 - `GET /ratings/average`: Get the average rating.
 
-## Dependencies
-
-- Flask: Web framework for building the REST API.
-
-## Project Structure
-
-rating_system/
-│
-├── app/
-│ ├── init.py
-│ ├── routes.py
-│
-├── requirements.txt
-├── README.md
-└── run.py
